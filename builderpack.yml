@@ -1,0 +1,6 @@
+version: 1.0
+build:
+  docker:
+    dockerfile: Dockerfile
+run:
+  command: python main.py
