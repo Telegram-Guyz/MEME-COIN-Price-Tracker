@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Replace with your Telegram bot token
-TELEGRAM_BOT_TOKEN = "7916433120:AAF3gIgTODj0t8nKquwXxuz4Z8Et06LyQTE"
+TELEGRAM_BOT_TOKEN = "8059341358:AAERU86IkLZRIsXJB8SdwfGPBv2V4m-oRhQ"
 
 # CoinGecko API URL for fetching cryptocurrency data
 COINGECKO_API_URL = "https://api.coingecko.com/api/v3/simple/price"
