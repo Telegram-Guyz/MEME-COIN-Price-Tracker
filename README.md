@@ -2,9 +2,12 @@
 
 
 <u>Available commands</u>:
+
 <code>start - wake me up!! 😴
 price - get the price of your coin.</code> 
 
-A repository created by 
-Github: @Telegram_Guyz 
-Telegram: <a href="https://t.me/The_TGguy">Telegram Guy!!</a>
+<b>A repository created by</b>:
+
+<b>Github</b>: <a href="https://github.com/Telegram-Guyz">Telegram Guy!!</a>
+
+<b>Telegram</b>: <a href="https://t.me/The_TGguy">Telegram Guy!!</a>
