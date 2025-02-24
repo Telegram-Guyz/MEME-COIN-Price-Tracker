@@ -1,4 +1,4 @@
-<i>A Telegram bot to find the price of MEME COIN. This bot can be hosted anywhere!!</i>
+<i>A Telegram bot to find the price of MEME COIN. This bot can be hosted anywhere!! Add Bot token in config.py and run the bot</i>
 
 
 <u>Available commands</u>:
